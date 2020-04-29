@@ -13,7 +13,10 @@
 			<li>git config-git 환경 설정</li>
 			<li>나도  li추가</li>
 			<li>세번째 li</li>
-
+		</ul>
+		<h2>또 다른 제목</h2>
+		<ul>
+			<li>크크루크킄</li>
 		</ul>
 </body>
 </html>
